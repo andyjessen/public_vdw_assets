@@ -184,7 +184,7 @@ Output: That portion of the Diag dataset containing one of the diagnosis codes o
 
 Purpose: Pulls the set of Proc records bearing any of a user-supplied list of procedure codes, during a user specified period of interest.
 
-InputsA dataset containing an unduplicated list of any combination of CPT-4 and ICD-9 procedure codes of interest; a time peiod of interest.
+InputsA dataset containing an unduplicated list of any combination of CPT-4 and ICD-9 procedure codes of interest; a time period of interest.
 
 Output: That portion of the Proc dataset containing one of the diagnosis codes of interest during the specified period.
 
